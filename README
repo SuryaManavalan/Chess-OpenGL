@@ -1,0 +1,18 @@
+Final Project
+
+Surya Manavalan
+CSCI4229/5229 Fall 2022
+
+Full Chess Game.
+
+Key bindings:
+  arrows     Change view angle in overhead
+  o/p        Zoom in and out in overhead
+  ESC        Exit
+  r/R        Restarts game when finished
+  Type in commands to move pieces in the format: e2,e4
+
+Running:
+  Type in the "make" command to build.
+  enter "./final" to run.
+
